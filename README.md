@@ -1,6 +1,6 @@
 # FIT2CLOUD 云管理平台之 IT 运营及自服务门户使用手册 {#fit2cloud-it}
 
-![logo.png](export/assets/logo.png)
+![](/assets/logo.png)
 
 云管理平台之 IT 运营及自服务门户使用**手册**
 
@@ -21,3 +21,4 @@ FIT2CLOUD,Inc.、FIT2CLOUD徽标是 FIT2CLOUD,Inc. 和或其附属公司的商�
 商标
 
 FIT2CLOUD®
+
